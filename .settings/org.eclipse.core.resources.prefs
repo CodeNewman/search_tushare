@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//pytdx/bin/hqget.py=utf-8
+encoding//pytdx/errors.py=utf-8
+encoding//pytdx/exhq.py=utf-8
+encoding//pytdx/hq.py=utf-8
+encoding//pytdx/log.py=utf-8
+encoding//pytdx/parser/base.py=utf-8
+encoding//pytdx/parser/get_security_bars.py=utf-8
+encoding//pytdx/trade/trade.py=utf-8
+encoding//pytdx/util/best_ip.py=utf-8
+encoding//pytdx/util/date_util.py=utf-8
+encoding//pytdx/util/trade_date.py=utf-8
+encoding//tushare/__init__.py=utf-8
+encoding//tushare/stock/trading.py=utf-8
+encoding//tushare/util/conns.py=utf-8
